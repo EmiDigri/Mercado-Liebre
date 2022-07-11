@@ -1,0 +1,17 @@
+{
+  "name": "mercadoliebre-definitivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
